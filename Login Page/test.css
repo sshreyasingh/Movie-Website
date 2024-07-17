@@ -34,7 +34,7 @@ h2 {
     padding:5%;
     background-color: #25292d;
     border:2px solid red;
-    background-image: url(marvelbg9.svg);
+    background-image: url(../Images marvel/marvelbg9.svg);
     background-size:cover ;
     height: 400px;
 }
