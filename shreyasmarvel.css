@@ -103,19 +103,19 @@
     text-align: center;
 }
 .box1{
-    background-image: url(loki.jpg);
+    background-image: url(../Images Marvel/loki.jpg);
     background-size: cover;
 }
 .box2{
-    background-image: url(wanda.jpg);
+    background-image: url(../Images Marvel/wanda.jpg);
     background-size: cover;
 }
 .box3{
-    background-image: url(missmar.jpg);
+    background-image: url(../Images Marvel/missmar.jpg);
     background-size: cover;
 }
 .box4{
-    background-image: url(hawkeye.jpg);
+    background-image: url(../Images Marvel/hawkeye.jpg);
     background-size: cover;
 }
 .halfmain2{
@@ -133,19 +133,19 @@
     text-align: center;
 }
 .box12{
-    background-image: url(theavengers2.jpg);
+    background-image: url(../Images Marvel/theavengers2.jpg);
     background-size: cover;
 }
 .box22{
-    background-image: url(ultron.jpg);
+    background-image: url(../Images Marvel/ultron.jpg);
     background-size: cover;
 }
 .box32{
-    background-image: url(endgame.jpg);
+    background-image: url(../Images Marvel/endgame.jpg);
     background-size: cover;
 }
 .box42{
-    background-image: url(infinitywar.jpg);
+    background-image: url(../Images Marvel/infinitywar.jpg);
     background-size: cover;
 }
 .halfmain3{
@@ -163,19 +163,19 @@
     text-align: center;
 }
 .box13{
-    background-image: url(thor.jpg);
+    background-image: url(../Images Marvel/thor.jpg);
     background-size: cover;
 }
 .box23{
-    background-image: url(ironman3.jpg);
+    background-image: url(../Images Marvel/ironman3.jpg);
     background-size: cover;
 }
 .box33{
-    background-image: url(civilwar.jpg);
+    background-image: url(../Images Marvel/civilwar.jpg);
     background-size: cover;
 }
 .box43{
-    background-image: url(mom.jpg);
+    background-image: url(../Images Marvel/mom.jpg);
     background-size: cover;
 }
 .main{
@@ -193,11 +193,11 @@
     text-align: end;
 }
 .box14{
-    background-image: url(deadpool.jpg);
+    background-image: url(../Images Marvel/deadpool.jpg);
     background-size: cover;
 }
 .box24{
-    background-image: url(deadpool2.jpg);
+    background-image: url(../Images Marvel/deadpool2.jpg);
     background-size: cover;
 }
 .footer{
